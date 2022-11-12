@@ -1,0 +1,21 @@
+img{
+    float: left;
+    height: 500px;
+    margin: 30px;
+    border: 10px solid red;
+    margin-top: 5px;
+}
+body{
+    display: flex;
+    background-color: black;
+    color: white
+}
+p{
+    margin: 50px;
+    border: 10px solid pink;
+
+}
+.interests{
+    border: 10px solid orange;
+
+}
