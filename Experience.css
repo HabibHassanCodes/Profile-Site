@@ -4,8 +4,8 @@ body{
     color: white;
     flex-direction: column;
     align-items: center;
-    background-image: url(https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif);
-    background-size: cover;
+    background-image: url(https://wallpaperaccess.com/full/2842066.jpg);
+   
 }   
 .nav a{
     float:left;
@@ -22,8 +22,8 @@ body{
     
 }
 .nav a:hover{
-    background-color: rgb(42, 42, 254);
-    color: rgb(0, 149, 255);
+    background-color:lightgrey;
+    color: darkgray;
 }
 .nav{
     margin-bottom: 100px;
@@ -41,6 +41,7 @@ body{
 }
 h2{
     text-shadow: 10px 10px 10px lightblue;
+    color: grey;;
 
 }
 .education-box{
@@ -55,4 +56,7 @@ h2{
 p , ul{
     background-color: grey;
     border-radius: 10px;
+}
+h1{
+    color: grey;
 }

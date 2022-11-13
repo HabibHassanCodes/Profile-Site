@@ -9,9 +9,10 @@ img{
 body{
     display: flex;
     background-color: black;
-    color: white;
+    color: grey;
     flex-direction: column;
     align-items: center;
+    background-image: url(https://wallpaperaccess.com/full/2842066.jpg);
 }
 .bio-box-text{
     margin-right: 50px;
@@ -29,8 +30,8 @@ body{
     justify-content: center;
 }
 .nav a:hover{
-    background-color: rgb(42, 42, 254);
-    color: rgb(0, 149, 255);
+    background-color:lightgrey;
+    color: darkgray;
 }
 .nav{
     margin-bottom: 100px;
@@ -44,4 +45,7 @@ body{
 .content-block{
     margin-right: 25px;
     border: 10px solid grey;
+}
+h1{
+    color: grey;
 }

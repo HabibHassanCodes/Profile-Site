@@ -4,8 +4,8 @@ body{
     color: white;
     flex-direction: column;
     align-items: center;
-    background-image: url("https://i.gifer.com/TphJ.gif") ;
-    background-size: cover;
+    background-image: url(https://wallpaperaccess.com/full/2842066.jpg) ;
+   
 }
 .nav a{
     float:left;
@@ -21,8 +21,8 @@ body{
     
 }
 .nav a:hover{
-    background-color: rgb(42, 42, 254);
-    color: rgb(0, 149, 255);
+    background-color:lightgrey;
+    color: darkgray;
 }
 .nav{
     margin-bottom: 100px;
@@ -58,4 +58,7 @@ p{
 h1{
     background-color: gray;
     border-radius: 10px;
+}
+h2{
+    color: grey;
 }
