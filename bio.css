@@ -27,8 +27,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    
-    
 }
 .nav a:hover{
     background-color: rgb(42, 42, 254);
