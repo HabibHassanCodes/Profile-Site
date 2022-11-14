@@ -58,7 +58,11 @@ p , ul{
     background-color: grey;
     border-radius: 10px;
     padding: 10px;
+    
 }
 h1{
     color: grey;
+}
+ul{
+    padding: 20px;
 }
