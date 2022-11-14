@@ -43,9 +43,12 @@ body{
     text-shadow: 10px 10px 10px grey;
 }
 .content-block{
-    margin-right: 25px;
+    margin-right: px;
     border: 10px solid grey;
 }
 h1{
     color: grey;
+}
+@media screen and (max-width: 768px){
+
 }

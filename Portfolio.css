@@ -47,7 +47,7 @@ img{
     align-items: center;
     margin-left:  25px;
     margin-right: 25px;
-
+    
 }
 #projects-div{
     display:flex;
@@ -58,11 +58,19 @@ p{
 }
 h1{
     color: grey;
-    border-radius: 10px;
+    
 }
 h2{
     color: grey;
 }
 p{
     padding: 10px;
+}
+a{
+    text-decoration: none;
+}
+@media screen and (max-width: 768px){
+    #projects-div{
+        flex-direction: column;
+    }
 }

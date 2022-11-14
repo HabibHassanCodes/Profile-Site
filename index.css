@@ -53,3 +53,15 @@ h2{
 h1{
     color: grey;
 }
+@media screen and (max-width: 768px){
+ #paragraph-content1{
+    margin:1px 1px;
+    }
+}
+#paragraph-content2{
+    margin:1px;
+    }
+
+img{
+    margin:1px
+}
