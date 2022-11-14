@@ -2,7 +2,6 @@ img{
     float: left;
     height: 500px;
     margin: 30px;
-
     margin-top: 5px;
     margin-left: 100px;
 }
@@ -16,6 +15,7 @@ body{
 }
 .bio-box-text{
     margin-right: 50px;
+    padding-left: 10px;
 }
 .nav a{
     float:left;
@@ -40,7 +40,7 @@ body{
     text-align: center;
     font-size: larger;
     color: white;
-    text-shadow: 10px 10px 10px lightblue;
+    text-shadow: 10px 10px 10px grey;
 }
 .content-block{
     margin-right: 25px;

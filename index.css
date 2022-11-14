@@ -12,14 +12,15 @@ body{
     margin: 0px 55px;
     background-color: gray;
     color: white;
-    text-shadow: 10px 10px 15px lightblue;
+    text-shadow: 10px 10px 15px grey;
+    padding: 10px;
 }
 #paragraph-content2{
     margin: 0px 55px;
     background-color: grey;
     color: white;
-    text-shadow: 10px 10px 15px lightblue;
     margin-top: 25px;
+    padding: 5px;
 }
 .paragraph-content{
     border-radius: 25px;
@@ -28,7 +29,7 @@ body{
     text-align: center;
     font-size: larger;
     color: white;
-    text-shadow: 10px 10px 10px lightblue;
+    text-shadow: 10px 10px 10px grey;
 }
 
 .nav a{

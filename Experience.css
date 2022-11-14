@@ -32,16 +32,17 @@ body{
     text-align: center;
     font-size: larger;
     color: white;
-    text-shadow: 10px 10px 10px lightblue;
+    text-shadow: 10px 10px 10px grey;
 }
 .text-box{
     display: flex;
     flex-direction: row;
     margin: 50px;
+    
 }
 h2{
-    text-shadow: 10px 10px 10px lightblue;
-    color: grey;;
+
+    color: grey;
 
 }
 .education-box{
@@ -56,6 +57,7 @@ h2{
 p , ul{
     background-color: grey;
     border-radius: 10px;
+    padding: 10px;
 }
 h1{
     color: grey;
