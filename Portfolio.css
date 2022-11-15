@@ -5,7 +5,7 @@ body{
     flex-direction: column;
     align-items: center;
     background-image: url(https://wallpaperaccess.com/full/2842066.jpg) ;
-   
+    font-family: Arial, sans-serif;
 }
 .nav a{
     float:left;

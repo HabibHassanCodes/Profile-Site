@@ -12,6 +12,7 @@ body{
     flex-direction: column;
     align-items: center;
     background-image: url(https://wallpaperaccess.com/full/2842066.jpg);
+    font-family: Arial, sans-serif;
 }
 .bio-box-text{
     margin-right: 50px;

@@ -8,6 +8,7 @@ body{
     flex-direction: column;
     align-items: center;
     background-image: url(https://wallpaperaccess.com/full/2842066.jpg);
+    font-family: Arial, sans-serif;
 }
 #paragraph-content1{
     margin: 0px 55px;
